@@ -1,0 +1,10 @@
+pandas
+openpyxl
+matplotlib
+seaborn
+plotly
+sqlalchemy
+psycopg2-binary
+nycflights13
+scikit-learn
+streamlit
